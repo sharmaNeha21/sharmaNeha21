@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Linear regression project
+- 🔭 I’m currently working for a Bank as a Portfolio manager.
 - 🌱 I’m currently learning some basic  machine learning.
 - 👯 I’m looking to collaborate on improving my libraries.
 - 📫 How to reach me: You can email me at nhsharma310@gmail.com
